@@ -149,7 +149,7 @@ defaultContentLanguage = "ru"
 # consult this documentation for explaination
 [params]
   disableExplicitIndexURLs = true
-  editURL = "https://github.com/crewpvp/wiki/edit/main/content/"
+  editURL = "https://github.com/crewpvp/skdocs/edit/main/content/"
   description = "Wiki of crewpvp.xyz minecraft server"
   author = "Lotzy, w0w0"
   showVisitedLinks = true
@@ -157,7 +157,7 @@ defaultContentLanguage = "ru"
   disableBreadcrumb = false
   disableRootBreadcrumb = true
   disableInlineCopyToClipBoard = true
-  disableEditButton = true
+  disableEditButton = false
   disablePrintButton = true
   disableNextPrev = false
   breadcrumbSeparator = "<i class='fa-fw fas fa-chevron-right' style='font-size:1rem;'></i>"
