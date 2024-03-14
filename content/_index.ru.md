@@ -1,5 +1,5 @@
 +++
-image = "../forest.jpg"
+image = "/images/forest.jpg"
 title = "Get Skript"
 archetype = "default"
 url = "getskript"
